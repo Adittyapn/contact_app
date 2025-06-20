@@ -2,7 +2,7 @@ import 'package:hive/hive.dart';
 
 part 'contact.g.dart';
 
-@HiveType(typeId: 0)
+@HiveType(typeId: 1)
 class Contact extends HiveObject {
   @HiveField(0)
   String name;
