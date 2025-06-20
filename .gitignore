@@ -1,0 +1,63 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+.idea/
+.svn/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code related
+.vscode/
+
+# MacOS related
+.DS_Store
+
+# Android related
+**/android/**/local.properties
+**/android/**/*.iml
+**/android/**/gradle-wrapper.properties
+**/android/.gradle/
+**/android/captures/
+
+# iOS related
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/app.flx
+**/ios/Flutter/app.zip
+**/ios/Flutter/flutter_assets/
+**/ios/.symlinks/
+**/ios/Pods/
+**/ios/Runner.xcworkspace/
+**/ios/Runner.xcodeproj/project.xcworkspace/
+**/ios/Runner.xcodeproj/xcuserdata/
+**/ios/Runner.xcworkspace/xcuserdata/
+**/ios/build/
+
+# Web related
+**/web/.dart_tool/
+**/web/build/
+
+# Windows related
+windows/build/
+windows/.dart_tool/
+
+# Linux related
+linux/build/
+linux/.dart_tool/
+
+# Fuchsia related
+.fuchsia/
+
+# Other
+*.log
+*.lock
