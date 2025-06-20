@@ -1,16 +1,46 @@
-# contact_app
+# Contact App
 
-A new Flutter project.
+A simple Flutter application to manage your contacts.
+
+## Features
+
+- Add, edit, and delete contacts
+- Search contacts by name or number
+- View contact details
+- Responsive UI for Android and iOS
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this project locally:
 
-A few resources to get you started if this is your first Flutter project:
+1. **Clone the repository:**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+   ```bash
+   git clone <repository-url>
+   cd contact_app
+   ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. **Install dependencies:**
+
+   ```bash
+   flutter pub get
+   ```
+
+3. **Run the app:**
+   ```bash
+   flutter run
+   ```
+
+## Screenshots
+
+<!-- Add screenshots here if available -->
+
+## Resources
+
+- [Flutter Documentation](https://docs.flutter.dev/)
+- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter Cookbook](https://docs.flutter.dev/cookbook)
+
+## License
+
+This project is licensed under the MIT License.
