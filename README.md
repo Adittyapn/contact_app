@@ -4,9 +4,9 @@ A simple Flutter application to manage your contacts.
 
 ## Features
 
+- Auth user
 - Add, edit, and delete contacts
-- Search contacts by name or number
-- View contact details
+- View contact list
 
 ## Getting Started
 
